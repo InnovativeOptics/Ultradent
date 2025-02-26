@@ -1,0 +1,12 @@
+name: Ultradent
+title: Ultradent
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14099477
+bundleId: 9856187
+url: https://inva.shinyapps.io/Ultradent/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
