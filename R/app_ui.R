@@ -38,7 +38,8 @@ app_ui <- function(request) {
           fluidRow(column(12,align='center',
                           h2(strong("Dentistry")),
                           h3("Search for loupe-compatible laser eye protection by selecting a laser device
-                                               and loupe design")))),
+                                               and loupe design"),
+                          h4("Please contact us if you would like expert help in choosing the appropriate insert. 763.425.7789")))),
       fluidRow(
         column(
           6,
